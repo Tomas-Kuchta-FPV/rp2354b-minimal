@@ -2,11 +2,13 @@
 
 This is a realization of the Raspberry Pi RP2350 "Minimal" design.
 
+![Picture of Board](rp2354b-minimal.jpg)
+
 My main objectives were to try the RP2354 for the internal flash and use the
 "B" part for the extra GPIOs.
 
-Going through [Hardware design with RP2350]
-(https://pip-assets.raspberrypi.com/categories/1214-rp2350/documents/RP-008280-DS-1-hardware-design-with-rp2350.pdf)
+Going through
+[Hardware design with RP2350](https://pip-assets.raspberrypi.com/categories/1214-rp2350/documents/RP-008280-DS-1-hardware-design-with-rp2350.pdf)
 is required to do this stuff and expect good results. It has a link to the
 original Kicad 7.0 version.
 
