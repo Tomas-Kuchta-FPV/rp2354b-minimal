@@ -1,6 +1,9 @@
 # RP2354B Minimal for KiCad 10
+> Status: Assembled, tested and it works  
 
 This is a realization of the Raspberry Pi RP2350 "Minimal" design.
+
+[iBom for assembly right here](https://htmlpreview.github.io/?https://github.com/Tomas-Kuchta-FPV/rp2354b-minimal/blob/master/bom/ibom.html)  
 
 ![Picture of Board](rp2354b-minimal.jpg)
 
